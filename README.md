@@ -17,3 +17,10 @@ Special credits to:
 
 * [Hannah Olukoye](https://hannaholukoye.medium.com/android-camera-set-orientation-with-sensors-78b587e5c04f)
 * [Ananth Raj Singh](https://betterprogramming.pub/simultaneous-front-and-rear-camera-preview-in-android-using-camera2-api-d9f2eb9af6b5)
+
+
+## Example
+https://github.com/user-attachments/assets/348b5ee9-6222-41cd-8947-c20697dd6bd7
+
+
+
